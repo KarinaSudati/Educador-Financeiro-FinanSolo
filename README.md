@@ -87,5 +87,8 @@ O projeto foi inteiramente idealizado a partir das diretrizes passadas via IA. A
 ### 📝 Prompt 2: Escolha de Stack / Tecnologia
 > "gostaria que fizesse utilizando React vite"
 
+
+Link do Vercel: educador-financeiro-finan-solo.vercel.app
+
 ---
-*Feito com ❤️ por Antigravity IDE.*
+*Feito com ❤️ por Antigravity IDE e Karina Sudati.*
